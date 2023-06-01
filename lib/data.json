@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10001"
+    },
+    "phoneNumbers": ["+1-555-1234", "+1-555-5678"],
+    "active": true,
+    "messageType": "M1"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 25,
+    "email": "janesmith@example.com",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001"
+    },
+    "phoneNumbers": ["+1-555-9876", "+1-555-5432"],
+    "active": false,
+    "messageType": "M2"
+  },
+  {
+    "name": "Bob Johnson",
+    "age": 45,
+    "email": "bobjohnson@example.com",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "60601"
+    },
+    "phoneNumbers": ["+1-555-1111", "+1-555-2222"],
+    "active": true,
+    "messageType": "M3"
+  }
+]
